@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47200534772",
+    "project_id": "myclinics-4477a",
+    "storage_bucket": "myclinics-4477a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47200534772:android:03c9fb19c37ca6f4f79ea1",
+        "android_client_info": {
+          "package_name": "com.example.myclinics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47200534772-4gifo2r1uhbcfgi46enbk617uge3qu46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myclinics",
+            "certificate_hash": "efd911e25bbf0b996b4b1ba670bdf3d877d842bc"
+          }
+        },
+        {
+          "client_id": "47200534772-giitto947dgg195bo2skvsenn978o9ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkzuNRlUk4lOxvSNNt-yNQqQ5myqbxFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47200534772-giitto947dgg195bo2skvsenn978o9ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
